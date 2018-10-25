@@ -1,0 +1,11 @@
+c:\users\serge\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.deps.json
+c:\users\serge\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.runtimeconfig.json
+c:\users\serge\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.runtimeconfig.dev.json
+c:\users\serge\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.dll
+c:\users\serge\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.pdb
+c:\users\serge\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.csprojResolveAssemblyReference.cache
+c:\users\serge\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.csproj.CoreCompileInputs.cache
+c:\users\serge\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.AssemblyInfoInputs.cache
+c:\users\serge\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.AssemblyInfo.cs
+c:\users\serge\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.dll
+c:\users\serge\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.pdb
